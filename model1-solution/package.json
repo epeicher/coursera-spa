@@ -1,0 +1,15 @@
+{
+  "name": "model1-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "browser-sync start --server --directory --files '**/*'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.16.0"
+  }
+}
